@@ -1,0 +1,3 @@
+create file1
+append file1 "Hello World Hello Sun"
+printdisk

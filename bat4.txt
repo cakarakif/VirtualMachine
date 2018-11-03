@@ -1,0 +1,3 @@
+create aaa
+append aaa "Democracy"
+append aaa "Democracy"

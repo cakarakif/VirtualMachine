@@ -1,0 +1,7 @@
+create ali
+append ali "a"
+append ali "b"
+append ali "c"
+append ali "d"
+append ali "e"
+printdisk
